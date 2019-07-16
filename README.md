@@ -2,9 +2,13 @@
 
 全部项目代码   \-\>   一个思维导图    \(暂时只支持Swift\)
 
+<br>
 
+<br>
 
 ## 读别人代码是一种什么体验?
+
+<br>
 
 ![](README/06648d915928e59e7221266d7cc31e9f_hd.jpg)
 
@@ -15,13 +19,12 @@
 
 
 
-
-
 <br>
 
 <br>
 
 ## How to change it?
+<br>
 
 在不熟悉项目结构的时候,查看一段代码你需要  🤯😱🤔🤮
 
@@ -42,6 +45,7 @@
 <br>
 
 ## How to use CodeMap?
+<br>
 
 \(暂时只支持.swift文件\)
 
@@ -59,7 +63,8 @@
 
 <br>
 
-## What else can CodeMap do \(with XMind\)? 
+## What else can CodeMap do \(with XMind\)?
+<br>
 
 1、标注代码之间的关系
 
@@ -74,6 +79,7 @@
 <br>
 
 ## How does CodeMap do it?
+<br>
 
 change code to .md to mind map
 
