@@ -74,7 +74,7 @@
 <br>
 ![](README/gif2.gif)
 <br>
-3、把某个子树扩展到整个画布上
+3、把某个子树扩展到一个新画布上
 <br>
 ![](README/gif3.gif)
 <br>
