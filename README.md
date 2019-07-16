@@ -67,12 +67,17 @@
 <br>
 
 1、标注代码之间的关系
+<br>
 ![](README/gif1.gif)
-
+<br>
 2、备注某段代码
-
+<br>
+![](README/gif2.gif)
+<br>
 3、把某个子树扩展到整个画布上
-
+<br>
+![](README/gif3.gif)
+<br>
 
 
 <br>
