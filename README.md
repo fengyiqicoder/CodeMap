@@ -9,7 +9,7 @@
 ![](README/06648d915928e59e7221266d7cc31e9f_hd.jpg)
 
 
-<br\>
+<br>
 
 我相信大家都感同身受...
 
@@ -17,9 +17,9 @@
 
 
 
-<br\>
+<br>
 
-<br\>
+<br>
 
 ## How to change it?
 
@@ -37,9 +37,9 @@
 ![](README/屏幕快照%202019-07-15%20下午10.18.51.png)
 
 
-<br\>
+<br>
 
-<br\>
+<br>
 
 ## How to use CodeMap?
 
@@ -55,9 +55,9 @@
 
 
 
-<br\>
+<br>
 
-<br\>
+<br>
 
 ## What else can CodeMap do \(with XMind\)? 
 
@@ -69,9 +69,9 @@
 
 
 
-<br\>
+<br>
 
-<br\>
+<br>
 
 ## How does CodeMap do it?
 
